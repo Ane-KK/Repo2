@@ -18,7 +18,7 @@ public class Base {
 	}
 
 	public static void main(String[] args) {
-		Base base= new Base();
+		Base base= new Base();//
 		base.browserLaunch();
 		base.browserCloseAndQuit();//
 		// TODO Auto-generated method stub
