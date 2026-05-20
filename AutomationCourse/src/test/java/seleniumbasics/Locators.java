@@ -13,7 +13,7 @@ public class Locators extends Base{
 		driver.findElement(By.linkText("Select Input"));
 		driver.findElement(By.partialLinkText("Select"));
 		driver.findElement(By.cssSelector("button[id='button-one']"));
-		//tagname[attribute='attribute value']
+		//syntax for css SELECTOR- tagname[attribute='attribute value']
 		
 		
 		
